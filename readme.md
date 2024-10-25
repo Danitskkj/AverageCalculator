@@ -26,7 +26,7 @@ Veja a aplicação em funcionamento [aqui](https://average-calculator-mu.vercel.
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-de-media.git
+   git clone https://github.com/Danitskkj/AverageCalculator.git
    ```
 
 2. Abra o arquivo `index.html` em um navegador.
