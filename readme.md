@@ -15,9 +15,9 @@ A **Calculadora de Média** é uma ferramenta simples baseada na web que permite
 
 ## Demonstração
 
-Veja a aplicação em funcionamento [aqui](https://seu-link-de-demo.com).
+Veja a aplicação em funcionamento [aqui](https://average-calculator-mu.vercel.app).
 
-![Preview da Aplicação](/imgs/nerdcat.png)
+![Preview da Aplicação](/imgs/preview.png)
 
 ## Tecnologias Utilizadas
 
