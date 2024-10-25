@@ -1,7 +1,3 @@
-Aqui está o README em português para o seu projeto "Calculadora de Média":
-
----
-
 # Calculadora de Média
 
 A **Calculadora de Média** é uma ferramenta simples baseada na web que permite aos usuários inserir nomes de atividades e suas respectivas notas. Ela calcula a média final e exibe se o usuário foi aprovado ou reprovado com base em uma média mínima exigida.
