@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+
+body {
+    padding-top: 5%;
+    background-color: azure;
+}
+
+.container {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    flex-direction: row; 
+    padding: 20px; 
+}
+
+header h1 {
+    margin: 0; 
+}
+
+header img {
+    width: 50px; 
+    height: auto;
+}
+
+form {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center; 
+    padding: 24px;
+}
+
+form input {
+    text-align: center;
+    font-size: 14px;
+    width: 50%;
+    background-color: white;
+    border-color: rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    padding: 8px;
+    margin-right: 1px;
+}
+
+form input::placeholder {
+    text-align: center; 
+}
+
+#notaAtividade {
+    width: 20%;
+}
+
+form button {
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    width:25%;
+    background-color: rgb(15, 184, 15);
+    color: white;
+    font-weight: bold;
+    padding: 8px;
+}
+
+form button:hover {
+    background-color: rgb(12, 131, 12);
+    cursor: pointer;
+}
+
+form input:focus {
+    outline-color: rgb(83, 12, 131);
+}
+
+#nota {
+    width: 20%;
+}
+
+table {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 800px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th {
+    font-size: 18px;
+    padding: 16px;
+    border-bottom: 2px solid rgba(0, 0, 0);
+}
+
+td {
+    font-size: 20px;
+    padding: 10px 0;
+    text-align: center;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.3);
+}
+
+td img {
+    width: 40px;
+}
+
+#medFinal {
+    font-weight: bold;
+}
+
+#resultadoFinal {
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    width: 150px; 
+    text-align: center; 
+    margin: 0 auto; 
+}
+
+.aprovado {
+    color: white;
+    background-color: rgb(15, 184, 15);
+}
+
+.reprovado {
+    color: white;
+    background-color: rgb(184, 15, 15);
+}
